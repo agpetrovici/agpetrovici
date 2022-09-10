@@ -1,7 +1,7 @@
 Hi there,
 
 - 🔭  I’m currently working on a Project Management app and a Python based Self Tracking system 😉
-- 🌱  I’m currently learning ✨ **Data Science** ✨
+- 🌱  I’m currently learning **Data Science**
 - 💬  Ask me about anything related to Python
 - 📫  How to reach me alejandropetrovici🔄gmail⚪com or [linkedin](https://www.linkedin.com/in/alejandro-petrovici-32363a129/)
 - ⚡  Hobbies 📷 🏃
